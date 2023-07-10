@@ -1,0 +1,117 @@
+basic:
+  name: OUASLI HOUAYDA                      # name
+  title: Etudiante          # job title
+  avatar:
+    show: true                       # show or hide avatar
+    path: /assets/images/profile.png # avatar file path
+
+contact:
+  # meta
+  location: ghardimaou tunisia # location
+  email: houayda.ouasli2001@gmail.com    # email address
+  phone: +216 90561270 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+
+  gender: woman                 # gender or pronoun
+  birthday: 12/5/2001          # birthday
+  nationality:             # nationality
+  visa:                    # passport visa
+  drivinglicense:          # driving licence
+
+  # contact
+  wechat:                  # username
+  whatsapp:                # 8611122223333     | https://wa.me/8611122223333
+  telegram:                # username          | https://t.me/username
+  messenger:               # username          | https://m.me/username
+  line:                    # lineid            | https://line.me/R/ti/p/@lineid
+  viber:                   # username          | https://vb.me/username
+  threema:                 # userid            | https://threema.id/userid
+
+  # programmer
+  github:                  # username          | https://github.com/Houayda22
+  gitlab:                  # username          | https://github.com/Houayda22
+  bitbucket:               # username          | https://bitbucket.com/username
+  stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
+  leetcode:                # username          | https://leetcode.com/username
+  codeforces:              # username          | https://codeforces.com/profile/username
+  codewars:                # username          | https://www.codewars.com/users/username
+  codepen:                 # username          | https://codepen.io/username
+  tryhackme:               # username          | https://tryhackme.com/p/username
+
+  # academic
+  googlescholar:           # username          | https://scholar.google.com/citations?user=username
+  researchgate:            # username          | https://www.researchgate.net/profile/username
+  kaggle:                  # username          | https://www.kaggle.com/username
+  orcid:                   # id                | https://orcid.org/id
+  figshare:                # name/id           | https://figshare.com/authors/name/id
+
+  # writer
+  devto:                   # username          | https://dev.to/username
+  medium:                  # username          | https://medium.com/@username
+  wordpress:               # username          | https://username.wordpress.com
+  blogger:                 # username          | https://username.blogspot.com
+  wikipedia:               # username          | https://www.wikipedia.org/wiki/User:username
+
+  # designer
+  figma:                   # username          | https://www.figma.com/@username
+  behance:                 # username          | https://www.behance.net/username
+  dribble:                 # username          | https://dribbble.com/username
+  artstation:              # username          | https://www.artstation.com/username
+
+  # other cv
+  linkedin:                # username          | https://linkedin.com/in/username
+  indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
+  xing:                    # username          | https://www.xing.com/profile/username
+  fiverr:                  # username          | https://www.fiverr.com/username
+  freelancer:              # username          | https://www.freelancer.com/u/username
+
+  # social media
+  twitter:                 # username          | https://twitter.com/username
+  mastodon:                # username@server
+  instagram:               # Houayyda         | https://www.instagram.com/hou_ayyda/
+  unsplash:                # username          | https://unsplash.com/@username
+  _500px:                  # username          | https://500px.com/p/username
+  youtube:                 # username          | https://www.youtube.com/@username
+  tiktok:                  # username          | https://www.tiktok.com/@username
+  quora:                   # username          | https://www.quora.com/profile/username
+  zhihu:                   # username          | https://www.zhihu.com/people/username
+  goodreads:               # username          | https://www.goodreads.com/user/show/username
+  strava:                  # useid             | https://www.strava.com/athletes/userid
+
+profile:
+  show: true
+  order: 1
+  title: Profile
+  description: |
+    I am a dynamic Computer Science student, constantly in search of new knowledge and exciting challenges in the world of technology.
+  
+Education:
+  show: true
+  order: 2
+  title: Education
+  description: Bachelor's Degree in Computer Science.
+  Currently a first-year student in Computer Science specializing in Software Engineering at the Higher Institute of Applied Languages and Computer Science in Beja.
+  |
+    
+ 
+Skills:
+  show: true
+  order: 3
+  title: Skills
+  description: |
+Pascal /C/python
+Html/CSS/Java Script
+Mysql
+Lunix
+Ms office
+Matlab
+  
+
+languages :
+  show: true
+  order: 4
+  title: languages 
+  description: |
+   - arabe 
+   - français 
+   - Anglais
+
