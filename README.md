@@ -1,4 +1,4 @@
-<h1 align="center"> <font color="#FF00FF"><u><b><font size="7">My Online-Resume</font><font size="7">
+<h1 align="center"> <font color="#FF00FF"><u><b><font  size="7">My Online-Resume</font><font size="7">
 </font></b></u></font></p>
 </h1>
 
