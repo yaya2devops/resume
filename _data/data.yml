@@ -88,9 +88,10 @@ Education:
   show: true
   order: 2
   title: Education
-  description: Bachelor's Degree in Computer Science.
+  description: |
+  Bachelor's Degree in Computer Science.
   Currently a first-year student in Computer Science specializing in Software Engineering at the Higher Institute of Applied Languages and Computer Science in Beja.
-  |
+ 
     
  
 Skills:
