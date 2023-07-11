@@ -341,35 +341,11 @@ language:
   description: |
    
   items:
-    - idiom: 
+    - idiom: Arabic
       level: Native
-    - idiom: 
+    - idiom: French
       level: Professional
 
-interest:
-  show: true
-  order: 12
-  title: Interests
-  description: |
-    
-  items:
-    - item: Reading
-      link: '#'
-    - item: Cooking
-      link:
-
-evaluation:
-  show: true
-  order: 13
-  title: Self-evaluation
-  description: |
-  
-   
-reference:
-  show: true
-  order: 14
-  title: References
-  description: |
   
   items:
     - name: Foo One
