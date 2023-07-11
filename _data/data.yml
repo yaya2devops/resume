@@ -153,7 +153,8 @@ language:
       level: Native
     - idiom: French
       level: Professional
-      interest:
+      
+ interest:
   show: true
   order: 12
   title: Interests
