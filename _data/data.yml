@@ -135,15 +135,14 @@ education:
       date: 2022 - 2023
       major: 
       degree: 
-      description: | 
-      Currently a first-year student in Computer Science 
 
     - institution: ghardimaou High School
       link:
       date: 2018 - 2022
       major: Computer Science
       degree: Bachelor
-      description: | Bachelor s Degree in Computer Science
+      description: |
+      Bachelor s Degree in Computer Science
   
 language:
   show: true
