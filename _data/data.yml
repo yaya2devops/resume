@@ -141,9 +141,7 @@ education:
       date: 2018 - 2022
       major: Computer Science
       degree: Bachelor
-      description: |
-      Bachelor s Degree in Computer Science
-  
+     
 language:
   show: true
   order: 11
