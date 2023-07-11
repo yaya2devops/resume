@@ -129,9 +129,6 @@ education:
   show: true
   order: 5
   title: Education
-  description: |
-  Currently a first-year student in Computer Science specializing in Software Engineering at the Higher Institute of Applied Languages and Computer Science in Beja
-  
   items:
     - institution: Higher Institute of Applied Languages and Computer Science in Beja
       link: '#'
