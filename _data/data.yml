@@ -341,9 +341,9 @@ language:
   description: |
    
   items:
-    - idiom: French
+    - idiom: 
       level: Native
-    - idiom: arabic
+    - idiom: 
       level: Professional
 
 interest:
@@ -363,9 +363,7 @@ evaluation:
   order: 13
   title: Self-evaluation
   description: |
-  Bachelor's Degree in Computer Science.
   
-  Currently a first-year student in Computer Science specializing in Software Engineering at the Higher Institute of Applied Languages and Computer Science in Beja.
    
 reference:
   show: true
