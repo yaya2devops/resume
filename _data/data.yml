@@ -97,7 +97,6 @@ experience:
       date: 2018.03 - 2019.03
       role: Backend Developer
       location: Beijing
-    
         + First
         + Second
 
@@ -153,10 +152,7 @@ language:
   order: 11
   title: Languages
   description: |
-    The languages section in a resume typically includes information about your proficiency in different languages. This section can be particularly important if you are applying for a job that requires fluency or proficiency in a specific language.
-
-    It's important to be honest about your language proficiency in your resume. If you overstate your abilities, it could lead to problems during the interview process or on the job. If you have taken language courses or earned language certifications, you can also include this information in the languages section of your resume.
-
+    The languages section in a resume typically includes information about your proficiency in different languages. 
   items:
     - idiom: Arabic
       level: Native
@@ -166,7 +162,6 @@ reference:
   show: true
   order: 14
   title: References
-  description: |
   
   items:
     - name: Foo One
@@ -174,7 +169,6 @@ reference:
       title:  Developer
       email: Houayda.ouasli2001@gmail.com
       phone: +216 90561270
-      description: |
 
     - name: Houayda Ouasli
       link:
@@ -183,7 +177,6 @@ reference:
       address: jandouba ghardimaou
       email: houayda.ouasli2001@gmail.com
       phone: +219 90561270 
-      description: |
 
 close: <strong>Sorry, my resume has been hidden.</strong>
 
