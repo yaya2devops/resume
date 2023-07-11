@@ -153,6 +153,20 @@ language:
       level: Native
     - idiom: French
       level: Professional
+      interest:
+  show: true
+  order: 12
+  title: Interests
+  items:
+    - item: Reading books 
+      link: '#'
+    - item: Cooking
+      link:
+      - item: web development
+      link:
+      - item: photographie
+      link:
+      
 reference:
   show: true
   order: 14
