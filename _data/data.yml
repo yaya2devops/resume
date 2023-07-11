@@ -89,7 +89,6 @@ experience:
   show: true
   order: 2
   title: Experiences
-  description: |
 
   items:
     - company: First Company
@@ -98,7 +97,7 @@ experience:
       date: 2018.03 - 2019.03
       role: Backend Developer
       location: Beijing
-      description: |
+    
         + First
         + Second
 
@@ -107,7 +106,7 @@ skill:
   show: true
   order: 4
   title: Skills
-  description: |
+
     
   items:
     - name: C
