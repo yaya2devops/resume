@@ -83,6 +83,7 @@ profile:
   order: 1
   title: Profile
   description: |
+    Bachelor's Degree in Computer Science.
      I am a dynamic Computer Science student, constantly in search of new knowledge and exciting challenges in the world of technology.
 experience:
   show: true
@@ -162,20 +163,12 @@ language:
       level: Native
     - idiom: French
       level: Professional
-
-
-  items:
-    - item: Reading
-      link: '#'
-    - item: Cooking
-      link:
-
 reference:
   show: true
   order: 14
   title: References
   description: |
-    
+  
   items:
     - name: Foo One
       link: '#'
