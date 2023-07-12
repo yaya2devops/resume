@@ -139,19 +139,19 @@ education:
       link:
       date: 2018 - 2022
       major: Computer Science
-      degree: 
+      degree: High School diploma
      
 language:
   show: true
   order: 11
   title: Languages
-  description: |
-    The languages section in a resume typically includes information about your proficiency in different languages. 
   items:
     - idiom: Arabic
       level: Native
     - idiom: French
       level: Professional
+    - idiom: Engish 
+      level: acceptable
       
 reference:
   show: true
