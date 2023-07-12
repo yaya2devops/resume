@@ -95,12 +95,13 @@ experience:
       link: '<add nxci.ca website here>'
       tags: Full-time
       date: 2023.06.1 - 2023.06.30
-      role: "Internship?"
-      location: tuinsia (is this correct?) 
-      # Add description and talk about your role at the company what are you looking forward to explore.
-       
-
-    
+      role: Developer
+      location: tuinsia #is this correct? 
+      description: |
+        +  Learn the basics of Git and GitHub 
+        +  project that contains my portfolio on GitHub and other projects 
+     # Add what you want to learn more?
+             
 skill:
   show: true
   order: 4
@@ -130,14 +131,16 @@ education:
   items:
     - institution: Higher Institute of Applied Languages and Computer Science in Beja
       link: '<add-univeritsy-link-here>'
-      date: 2022 - 2023
-      major: 
+      date: 2022 - 2025
+      major: Software Engineering and Information Systems
+      degree: Bachelor
+
 
     - institution: ghardimaou High School
       link:
       date: 2018 - 2022
       major: Computer Science
-      degree: Bachelor # High School Diploma?
+      degree: 
      
 language:
   show: true
@@ -157,13 +160,15 @@ reference:
   order: 14
   title: References
   
+  # This section is duplicated 
   items:
     - name: Delete this if not required
       link: '#'
       title:  Developer
       email: Houayda.ouasli2001@gmail.com
       phone: +216 90561270
-
+  ## -----
+  
     - name: Houayda Ouasli
       link:
       title: Student
