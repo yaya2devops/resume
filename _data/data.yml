@@ -91,14 +91,13 @@ experience:
   title: Experiences
 
   items:
-    - company: First Company
+    - company: NXC international 
       link: '#'
       tags: Full-time
-      date: 2018.03 - 2019.03
-      role: Backend Developer
-      location: Beijing
-        + First
-        + Second
+      date: 2023.06.1 - 2023.06.30
+      role: " .."
+      location: tuinsia 
+       
 
     
 skill:
@@ -123,7 +122,21 @@ skill:
     - name: Mysql
       level: 4
     
-
+interest:
+  show: true
+  order: 12
+  title: Interests
+  
+  
+  items:
+    - item: Reading books 
+      link: '#'
+    - item: Cooking
+      link:
+    - item: development web
+      link:
+   - item: photographie
+      link:
 
 education:
   show: true
@@ -134,7 +147,6 @@ education:
       link: '#'
       date: 2022 - 2023
       major: 
-      degree: 
 
     - institution: ghardimaou High School
       link:
