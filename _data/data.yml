@@ -3,7 +3,7 @@ basic:
   title:            # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/<ADD-Yours-Here.png> # avatar file path
+    path: /assets/images/<ADD-Yours-Here.png> # follow the path and include your picture
 
 contact:
   # meta
@@ -97,6 +97,7 @@ experience:
       date: 2023.06.1 - 2023.06.30
       role: "Internship?"
       location: tuinsia (is this correct?) 
+      # Add description and talk about your role at the company what are you looking forward to explore.
        
 
     
@@ -136,7 +137,7 @@ education:
       link:
       date: 2018 - 2022
       major: Computer Science
-      degree: Bachelor
+      degree: Bachelor # High School Diploma?
      
 language:
   show: true
@@ -149,6 +150,7 @@ language:
       level: Native
     - idiom: French
       level: Professional
+      # Time to add English!
       
 reference:
   show: true
