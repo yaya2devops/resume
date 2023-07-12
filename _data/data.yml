@@ -121,22 +121,6 @@ skill:
       level: 3
     - name: Mysql
       level: 4
-    
-interest:
-  show: true
-  order: 12
-  title: Interests
-  
-  
-  items:
-    - item: Reading books 
-      link: '#'
-    - item: Cooking
-      link:
-    - item: development web
-      link:
-   - item: photographie
-      link:
 
 education:
   show: true
