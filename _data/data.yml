@@ -95,11 +95,12 @@ experience:
       link: '#'
       tags: Full-time
       date: 2023.06.1 - 2023.06.30
-      role: " .."
+      role: Developer
       location: tuinsia 
-       
-
-    
+      description: |
+      Learn the basics of Git and GitHub .
+      project that contains my portfolio on GitHub and other projects .
+      
 skill:
   show: true
   order: 4
@@ -128,15 +129,17 @@ education:
   title: Education
   items:
     - institution: Higher Institute of Applied Languages and Computer Science in Beja
-      link: '#'
-      date: 2022 - 2023
-      major: 
+      link: 
+      date: 2022 - 2025
+      major: Software Engineering and Information Systems
+      degree: Bachelor
+
 
     - institution: ghardimaou High School
       link:
       date: 2018 - 2022
       major: Computer Science
-      degree: Bachelor
+      degree: 
      
 language:
   show: true
