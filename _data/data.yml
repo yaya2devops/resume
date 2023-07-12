@@ -98,8 +98,8 @@ experience:
       role: Developer
       location: tuinsia 
       description: |
-      Learn the basics of Git and GitHub .
-      project that contains my portfolio on GitHub and other projects .
+        +  Learn the basics of Git and GitHub 
+        +  project that contains my portfolio on GitHub and other projects 
       
 skill:
   show: true
